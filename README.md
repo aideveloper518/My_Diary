@@ -27,3 +27,5 @@ This is interesting AI-powered text editor. It has features of vs code, notepad 
 ![icon](https://github.com/Anonymous6598/My_Diary/assets/121385046/9d438e37-8822-4608-8458-df8b9f93b4bd)
 
 If you like project, star it, please.
+
+Thanks
